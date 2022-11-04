@@ -1,0 +1,70 @@
+
+.my-container {
+    /* border: 1px solid green; */
+    height: 100vh;
+    width: 100vw;
+}
+.my-row {
+    /* border: 3px solid red; */
+    height: 100vh;
+    /* width: 100vw; */
+    align-items: stretch;
+}
+.my-col {
+    /* border: 3px dotted blue; */
+    border: 1px solid rgba(42, 171, 211, 0.05);
+    
+    align-content: space-between;
+    background: #eaf1fb;  
+}
+.menu-div {
+    padding: 2% 2%;
+}
+
+.search-div {
+display: flex;
+align-content: center;
+
+}
+
+.search-btn {
+    margin-top: 3.2%;
+    margin-bottom: 3.2%;
+}
+
+.search-bar {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 2% 2%;
+    margin: 3% 0.5% 3% 0.5%;
+    width: 100%;
+}
+
+.sender {
+  list-style: none;
+  padding: 2% 2%;
+  background-color:#ffffff;
+  margin-top: 2%;
+}
+
+.send-button {
+  margin-top: 2%;
+}
+
+.main-email {
+    border: 1px double rgb(0, 0, 0, 0.5);
+    padding: 2% 2%;
+    border-radius: 3px;
+    background-color: rgb(243, 243, 243);
+    margin-bottom: 2%;
+}
+
+.mailer1 {
+    border-bottom: 1px solid #868686;
+}
+
+.mailer2 {
+    margin-top: 3%;
+    border-bottom: 1px solid #868686;
+}
+
